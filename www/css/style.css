@@ -1,2 +1,10 @@
-/**/
-
+/* This is a CSS file */
+#img{
+    width: 250px;
+}
+#titulo{
+  text-align: center;
+}
+#card{
+  background-color: gainsboro;
+}
